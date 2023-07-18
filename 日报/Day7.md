@@ -24,4 +24,5 @@
 - 文件存储的位置不对，通过这个API解决``getExternalFilesDir``
 - 文档分享是通过intent传输
 - 设置错误检查机制，例如``try...catch;Toast;Log``
+- ~~崩铁真好玩🤡~~
 
