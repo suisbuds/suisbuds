@@ -13,7 +13,7 @@ An student in Huazhong University of Science and Technology
 
 
 ### ⚡ Fun fact
-> yorushika yyds!!!
+> yorushika yyds !!!
 
 
 <!--
