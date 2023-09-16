@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+
+### 🙌 Who am I
+An student in Huazhong University of Science and Technology
+
+
+### 🌱 I’m currently learning
+- 🗽 Jetpack
+- 🔥 Flutter
+- ♨️ Kotlin & Java
+- 🏆 Algorithm
+
+
+### ⚡ Fun fact
+> yorushika yyds!!!
+
+
 <!--
 **suisbuds/suisbuds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
