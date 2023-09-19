@@ -2,7 +2,7 @@
 
 
 ### 🙌 Who am I
-An student in Huazhong University of Science and Technology
+- An student in Huazhong University of Science and Technology
 
 
 ### 🌱 I’m currently learning
