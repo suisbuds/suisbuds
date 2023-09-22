@@ -9,7 +9,7 @@
 - 🗽 Jetpack
 - 🔥 Flutter
 - ♨️ Kotlin & Java
-- 🏆 Algorithm
+- 🏆 Algorithm & cpp
 
 
 ### ⚡ Fun fact
