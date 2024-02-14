@@ -2,18 +2,23 @@
 
 
 ### 🙌 Who am I
-- An student in Huazhong University of Science and Technology
+- An undergraduate student majoring in Electronic Information Engineering in Huazhong University of Science and Technology
+
+
+### 🔭 I’m currently working on
+- 🗽 Jetpack Compose
+- ✨ Kotlin
+  
 
 
 ### 🌱 I’m currently learning
-- 🗽 Jetpack
+- ♨️ Java
 - 🔥 Flutter
-- ♨️ Kotlin & Java
-- 🏆 Algorithm & cpp
+- 🏆 Kotlin Multiplatform
 
 
 ### ⚡ Fun fact
-**yorushika yyds !!!**
+**お気に入りのバンド：yorushika,zutomayo,yoasobi,atarayo**
 
 
 <!--
