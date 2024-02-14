@@ -13,7 +13,7 @@
 
 
 ### ⚡ Fun fact
-> yorushika yyds !!!
+**yorushika yyds !!!**
 
 
 <!--
