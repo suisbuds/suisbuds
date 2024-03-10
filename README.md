@@ -1,24 +1,24 @@
-### 👋 Hi there 
+## 👋 Hi there 
 
+<br>
 
 ### 🙌 Who am I
 - An undergraduate student majoring in Electronic Information Engineering in Huazhong University of Science and Technology
 
 
-### 🔭 I’m currently working on
-- 🗽 Jetpack Compose
-- ✨ Kotlin
-  
-
-
 ### 🌱 I’m currently learning
+- 🐤 Kotlin
 - ♨️ Java
 - 🔥 Flutter
-- 🏆 Kotlin Multiplatform
+- 🏆 KMP
 
 
-### ⚡ Fun fact
-**お気に入りのバンド：yorushika,zutomayo,yoasobi,atarayo**
+### ⚡ **yorushika 😍**
+
+
+<br>
+
+[![SuLis's GitHub stats](https://github-readme-stats.vercel.app/api?username=suisbuds&show_icons=true&theme=onedark)](https://github.com/suisbuds/github-readme-stats)
 
 
 <!--
