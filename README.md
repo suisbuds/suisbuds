@@ -3,14 +3,13 @@
 <br>
 
 ### 🙌 Who am I
-- An undergraduate student majoring in Electronic Information Engineering in Huazhong University of Science and Technology
+- An undergraduate student in Huazhong University of Science and Technology
 
 
 ### 🌱 I’m currently learning
-- 🐤 Kotlin
-- ♨️ Java
-- 🔥 Flutter
-- 🏆 KMP
+- 🐤 Kotlin/Java for Android
+- 🔥 Flutter/KMP
+- 🏆 Go
 
 
 ### ⚡ **yorushika 😍**
@@ -19,6 +18,14 @@
 <br>
 
 [![SuLis's GitHub stats](https://github-readme-stats.vercel.app/api?username=suisbuds&show_icons=true&theme=onedark)](https://github.com/suisbuds/github-readme-stats)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suisbuds/suisbuds/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suisbuds/suisbuds/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suisbuds/suisbuds/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <!--
