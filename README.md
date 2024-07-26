@@ -1,31 +1,26 @@
-### 👋 Hi there 
+### 👋 Hi there, I'm SuLis
 
 <br>
 
-### 🙌 Who am I
-- An undergraduate student in Huazhong University of Science and Technology
+### 🌱 currently learning
+[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
+### 🚀 skills
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java)](https://skillicons.dev)
 
-### 🌱 I’m currently learning
-- 🐤 Kotlin/Java for Android
-- 🔥 Flutter/KMP
-- 🏆 Go
-
-
-### ⚡ **yorushika 😍**
-
-
-<br>
-
-[![SuLis's GitHub stats](https://github-readme-stats.vercel.app/api?username=suisbuds&show_icons=true&theme=onedark)](https://github.com/suisbuds/github-readme-stats)
-
-<br>
+### 😍 yorushika 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suisbuds/suisbuds/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suisbuds/suisbuds/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suisbuds/suisbuds/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+<br>
+
+[![](https://count.getloli.com/get/@suisbuds.github.readme)](https://count.getloli.com/)
 
 
 
@@ -43,3 +38,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
