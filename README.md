@@ -1,14 +1,20 @@
-### 👋 Hi there, I'm SuLis
+<p align="center">
+<img src="imgs/Yorushika_Logo.jpg"/>
+</p>
+
+### 👋 Hi there, I'm SuLis 
 
 <br>
 
 ### 🌱 currently learning
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
+<br>
+
 ### 🚀 skills
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java)](https://skillicons.dev)
 
-### 😍 yorushika 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suisbuds/suisbuds/output/github-contribution-grid-snake-dark.svg">
@@ -18,7 +24,6 @@
 
 <br>
 
-<br>
 
 [![](https://count.getloli.com/get/@suisbuds.github.readme)](https://count.getloli.com/)
 
