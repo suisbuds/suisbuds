@@ -9,8 +9,6 @@
 ### 🌱 currently learning
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
-<br>
-
 ### 🚀 skills
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java)](https://skillicons.dev)
 
@@ -24,6 +22,9 @@
 
 <br>
 
+<br>
+
+<br>
 
 [![](https://count.getloli.com/get/@suisbuds.github.readme)](https://count.getloli.com/)
 
