@@ -2,7 +2,7 @@
 <img src="imgs/Yorushika_Logo.jpg"/>
 </p>
 
-### 👋 Hi there, I'm SuLis 
+### 👋 Hi there, I'm suisbuds
 
 <br>
 
