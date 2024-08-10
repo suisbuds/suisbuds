@@ -12,6 +12,8 @@
 ### 🚀 skills
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java)](https://skillicons.dev)
 
+### 🥰 My favourite band is ヨルシカ !
+
 <br>
 
 <picture>
