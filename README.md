@@ -1,4 +1,4 @@
-<img align="center" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+<img align="center" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED709B&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+suisbuds)](https://git.io/typing-svg)
