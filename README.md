@@ -29,7 +29,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=10&color=ed709b&vCenter=true&repeat=false&width=435&lines=%F0%9F%93%9D+Blog)](https://git.io/typing-svg)
 
-[![Blog](https://img.shields.io/badge/Blog-suisbuds-%23ed709b?style=for-the-badge&logo=bilibili&logoColor=%23ed709b&logoSize=auto&labelColor=white)](https://hexo-suisbuds-blog.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-suisbuds-%23ed709b?style=for-the-badge&logo=bilibili&logoColor=%23ed709b&logoSize=auto&labelColor=white)](https://natsugasumi.vercel.app/)
 
 <br>
 
